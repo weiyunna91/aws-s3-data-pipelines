@@ -1,0 +1,2 @@
+# For image classification
+Organise the images into two categroies before uploading them to S3 for further processing in SageMaker. 
