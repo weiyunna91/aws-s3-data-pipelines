@@ -1,0 +1,3 @@
+conda create -n computervision python=3.8
+pip install jupyterlab
+pip install opencv-python
